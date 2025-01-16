@@ -13,5 +13,5 @@ Github  https://github.com/SilviaMaina
 
 This is under the MIT License. See the [License](LICENSE) file for details
 ## Contacts
-sylviahmaina6@gmail.com
+sylviahmaina6@gmail.com<br>
 Project link: https://github.com/SilviaMaina/html002.git
