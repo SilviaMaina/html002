@@ -6,3 +6,6 @@ You can learn Html Tags from this project
 HTML<br>
 CSS
 ## Live link
+https://silviamaina.github.io/html002/
+## License
+[License](LICENSE)
