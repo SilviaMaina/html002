@@ -7,7 +7,7 @@ HTML<br>
 CSS
 ## Live link
 https://silviamaina.github.io/html002/
-## Authors
+## Author
 Github  https://github.com/SilviaMaina
 ## License
 
